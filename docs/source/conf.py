@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Practice Course Mannual'
+project = '実践コーステキスト'
 copyright = '2021, Hisashi Miura'
 author = 'Hisashi Miura'
 
