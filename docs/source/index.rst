@@ -7,5 +7,6 @@
    :maxdepth: 2
    :caption: Contents:
 
-   00_introduction
-   01_basic
+   introduction
+   00_basic
+   01_u_a_value_eta_a_value
